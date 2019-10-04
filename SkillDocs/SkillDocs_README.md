@@ -4,7 +4,7 @@
 
 2. CouchDB数据与查询.docx
 
-3. TeamViewer如何解除检测为商业用途而被5分钟限制的危机.docx
+3. TeamViewer如何解除检测为商业用途.docx
 
 4. ssh免密登录.docx
 
